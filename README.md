@@ -1,5 +1,5 @@
 
-# GLADFormer: A Guided Light-Aware Dual-Attention Transformer for Low-Light Image Enhancement
+# GLADFormer: Dual-Attention Transformer for Low-Light Image Enhancement
 
 This repository contains the official PyTorch implementation of **GLADFormer**, a novel Transformer-based framework for low-light image enhancement.
 
