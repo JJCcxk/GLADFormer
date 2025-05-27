@@ -18,8 +18,6 @@ The following datasets are supported:
 - SID
 - ExDark (for object detection)
 
-Please refer to `datasets/README.md` for details on dataset download and structure.
-
 ## 🚀 Getting Started
 
 ### Prerequisites
